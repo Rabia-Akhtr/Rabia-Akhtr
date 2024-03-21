@@ -1,6 +1,6 @@
 # Hi there, I'm Rabia Akhtar! 👋
 
-I'm a passionate data scientist and Mathematician. Welcome to my GitHub profile! Here's a bit about me:
+I'm a passionate Data Scientist and Mathematician. Welcome to my GitHub profile! Here's a bit about me:
 
 - 🎓 Currently pursuing my Master's in Data Science.
 - 💻 Love exploring and working on machine learning projects.
