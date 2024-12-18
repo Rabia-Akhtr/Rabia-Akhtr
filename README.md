@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/rabia_akh25" target="blank"><img src="https://img.shields.io/twitter/follow/rabia_akh25?logo=twitter&style=for-the-badge" alt="rabia_akh25" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Big Data technologies**
-- 👨‍💻 All of my projects are available at [https://github.com/Rabia-Akhtr?tab=repositories](https://github.com/Rabia-Akhtr)?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Rabia-Akhtr?tab=repositories](https://github.com/Rabia-Akhtr?tab=repositories)
 - 💬 Ask me about **Data Science, Machine Learning, Big Data, and Analytics**
 - 📫 How to reach me **rabiaakh25@gmail.com**
 
