@@ -1,20 +1,37 @@
-# Hi there, I'm Rabia Akhtar! 👋
+<h1 align="center">Hi 👋, I'm Rabia Akhtar</h1>
+<h3 align="center">A passionate Data Scientist and Mathematician</h3>
+<img align="right" alt="Coding" width="400" height="250" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
-I'm a passionate Data Scientist and Mathematician. Welcome to my GitHub profile! Here's a bit about me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiaakh25&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaakh25" /> </p>
 
-- 🎓 Currently pursuing my Master's in Data Science.
-- 💻 Love exploring and working on machine learning projects.
-- 📊 Enjoy analyzing data to uncover insights and make informed decisions.
-- 🌱 Always learning and exploring new technologies in the Data Science Field.
-- 📫 You can reach me at: rabiaakh25@gmail.com
-- 😄 Pronouns: She/Her
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiaakh25" alt="rabiaakh25" /></a> </p>
 
-### 🔧 Technologies & Tools:
-- Python, R, SQL
-- Machine Learning (Scikit-learn, TensorFlow, Keras)
-- Data Visualization (Matplotlib, Seaborn, Numpy, Pandas)
-- Big Data (Spark)
-- Git & GitHub
+<p align="left"> <a href="https://twitter.com/rabia_akh25" target="blank"><img src="https://img.shields.io/twitter/follow/rabia_akh25?logo=twitter&style=for-the-badge" alt="rabia_akh25" /></a> </p>
 
-### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/rabia-akhtar-🇬🇧-a761ab23b/)
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Big Data technologies**
+- 👨‍💻 All of my projects are available at [https://github.com/rabiaakh25?tab=repositories](https://github.com/rabiaakh25?tab=repositories)
+- 💬 Ask me about **Data Science, Machine Learning, Big Data, and Analytics**
+- 📫 How to reach me **rabiaakh25@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rabia_akh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabia_akh25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabia-akhtar-🇬🇧-a761ab23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rabia Akhtar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Technologies & Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+  <a href="https://www.sql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original.svg" alt="spark" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiaakh25&show_icons=true&locale=en&layout=compact" alt="rabiaakh25" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&locale=en" alt="rabiaakh25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaakh25&" alt="rabiaakh25" /></p>
