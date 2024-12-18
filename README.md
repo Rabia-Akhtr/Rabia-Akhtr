@@ -35,3 +35,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&locale=en" alt="rabiaakh25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaakh25&" alt="rabiaakh25" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&theme=radical" alt="Rabia's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaakh25&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaakh25&theme=radical" alt="GitHub Streak"/>
+</p>
