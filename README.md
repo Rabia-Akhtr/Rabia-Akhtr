@@ -30,8 +30,15 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiaakh25&show_icons=true&locale=en&layout=compact" alt="rabiaakh25" /></p>
+## 📊 GitHub Stats & Activity
+![Rabia Akhtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&locale=en" alt="rabiaakh25" /></p>
+## 📌 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaakh25&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaakh25&" alt="rabiaakh25" /></p>
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rabiaakh25&theme=darkhub)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=rabiaakh25&theme=radical)
+
