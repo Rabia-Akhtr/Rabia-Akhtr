@@ -31,14 +31,15 @@
 </p>
 
 ## 📊 GitHub Stats & Activity
-![Rabia Akhtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&theme=radical)
+![Rabia Akhtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiaakh25&show_icons=true&count_private=true&theme=radical)
 
 ## 📌 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaakh25&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaakh25&layout=compact&count_private=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rabiaakh25&theme=darkhub)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rabiaakh25&theme=radical)
+
 
