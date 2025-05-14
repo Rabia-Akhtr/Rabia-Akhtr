@@ -47,11 +47,15 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabia-Akhtr&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia-Akhtr&layout=compact&count_private=true&theme=radical&cache_seconds=1" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabia-Akhtr&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_buster=now1" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia-Akhtr&layout=compact&count_private=true&theme=radical&cache_buster=now1" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-80-blueviolet" alt="Total Commits Badge" />
+</p>
 
+---
 
 
 ## 🌟 Featured Projects
