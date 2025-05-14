@@ -6,6 +6,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rabia-Akhtr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ### 🌟 About Me
 - 🌿 MSc in Data Science | Strong foundation in **Mathematics & Statistics**
@@ -48,15 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia-Akhtr&layout=compact&count_private=true&theme=radical&cache_seconds=1" width="48%">
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabia-Akhtr&theme=darkhub&no-frame=true&column=4">
-</p>
 
-## ⏳ GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabia-Akhtr&theme=radical">
-</p>
+
 
 ## 🌟 Featured Projects
 
@@ -70,10 +66,6 @@
 
 > 💡 *"I love turning complex data into simple, beautiful insights."*  
 > 🌱 *Always exploring new tools, algorithms, and trends to stay ahead!*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rabia-Akhtr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
